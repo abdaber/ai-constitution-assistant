@@ -1,0 +1,6 @@
+streamlit
+chromadb
+langchain
+sentence-transformers
+pypdf
+python-dotenv
